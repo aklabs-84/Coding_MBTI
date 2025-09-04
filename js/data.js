@@ -99,7 +99,7 @@ export const questions = [
 export const results = [
   {
     title: 'ISTJ<br> 체계적인<br> 데이터베이스 관리 강사',
-    character: '/images/result_character1.png',
+    character: 'images/result_character1.png',
     results: [
       '체계적이고 실용적이며,<br> 일에 대한 책임감이 강해요.',
     ],
@@ -110,19 +110,19 @@ export const results = [
   },
   {
     title: 'ISFJ<br> 사용자 친화적인<br> 웹 개발 기초 강사 ',
-    character: '/images/result_character2.png',
+    character: 'images/result_character2.png',
     results: [
       '친절하고 배려 깊으며,<br> 안정과 조화를 중요시해요.',
       '추천 학습 유형: 블록코딩',
     ],
     jobs: ['블록코딩, 웹 개발 기초'],
     work:'ESTP - 도전을 즐기는 ESTP와 협력적인 ISFJ가<br> 팀을 이루면 멋진 조화를 이뤄요.',
-    lectureImg: '/images/아크랩스코딩클럽.png',
+    lectureImg: 'images/아크랩스코딩클럽.png',
     lectureUrl: 'https://litt.ly/aklabs'
   },
   {
     title: 'INFJ<br> 비전 있는<br> 사용자 경험 디자인 강사',
-    character: '/images/result_character3.png',
+    character: 'images/result_character3.png',
     results: [
       '이상적이고 창의적이며,<br> 타인을 돕는 것에 깊은 만족을 느껴요.',
     ],
@@ -133,18 +133,18 @@ export const results = [
   },
   {
     title: 'INTJ<br> 전략적인<br> 프로그래밍 문제 해결 강사',
-    character: '/images/result_character4.png',
+    character: 'images/result_character4.png',
     results: [
       '독창적이고 독립적인 사고를 가지며,<br> 높은 성취를 추구해요.',
     ],
     jobs: ['인공지능 기초, 알고리즘 문제 해결'],
     work:'ENFP<br> 창의적인 ENFP와 목표 지향적인 INTJ는<br> 서로의 세계를 넓혀 줘요.',
-    lectureImg: '/images/아크랩스코딩클럽.png',
+    lectureImg: 'images/아크랩스코딩클럽.png',
     lectureUrl: 'https://litt.ly/aklabs'
   },
   {
     title: 'ISTP<br> 실용적인<br> 하드웨어 프로그래밍 강사',
-    character: '/images/result_character5.png',
+    character: 'images/result_character5.png',
     results: [
       '호기심이 많고 융통성이 있으며,<br> 실질적인 문제 해결을 즐겨요.',
     ],
@@ -155,7 +155,7 @@ export const results = [
   },
   {
     title: 'ISFP<br> 창의적인<br> 모바일 앱 개발 강사',
-    character: '/images/result_character6.png',
+    character: 'images/result_character6.png',
     results: [
       '따뜻한 감성을 가지고 있으며,<br> 자유롭게 자신을 표현하는 것을 좋아해요.',
     ],
@@ -166,7 +166,7 @@ export const results = [
   },
   {
     title: 'INFP<br> 꿈꾸는 게임 개발 강사',
-    character: '/images/result_character7.png',
+    character: 'images/result_character7.png',
     results: [
       '이상적이고 창의적이며,<br> 자신과 타인의 성장을 중요시해요.',
     ],
@@ -177,18 +177,18 @@ export const results = [
   },
   {
     title: 'INTP<br> 호기심 많은<br> 프로그래밍 언어 이론 강사',
-    character: '/images/result_character8.png',
+    character: 'images/result_character8.png',
     results: [
       '호기심이 많고 분석적이며,<br> 지식을 탐구하는 것을 즐겨요.',
     ],
     jobs: ['프로그래밍 언어 이론, 인공지능 기초'],
     work:'ENFJ<br> 동기부여가 탁월한 ENFJ와 지적인 INTP는<br> 서로의 발전에 귀중한 영향을 줘요.',
-    lectureImg: '/images/아크랩스코딩클럽.png',
+    lectureImg: 'images/아크랩스코딩클럽.png',
     lectureUrl: 'https://litt.ly/aklabs'
   },
   {
     title: 'ESTP<br> 모험을 즐기는<br> 사이버 보안 강사',
-    character: '/images/result_character9.png',
+    character: 'images/result_character9.png',
     results: [
       '실용적이고 현실적인 문제 해결에 뛰어나며,<br> 순발력이 있어요.',
     ],
@@ -199,7 +199,7 @@ export const results = [
   },
   {
     title: 'ESFP<br> 상상력이 풍부한<br> 프론트엔드 개발 강사',
-    character: '/images/result_character10.png',
+    character: 'images/result_character10.png',
     results: [
       '사람들과 어울리기를 좋아하고,<br> 즉흥적이며 열정적이에요.',
     ],
@@ -210,7 +210,7 @@ export const results = [
   },
   {
     title: 'ENFP<br> 영감을 주는<br> 인터랙티브 미디어 강사',
-    character: '/images/result_character11.png',
+    character: 'images/result_character11.png',
     results: [
       '새로운 가능성을 탐구하고,<br> 열정적이며 창의적이에요.',
     ],
@@ -221,7 +221,7 @@ export const results = [
   },
   {
     title: 'ENTP<br> 논쟁을 즐기는<br> 신기술 탐색 강사',
-    character: '/images/result_character12.png',
+    character: 'images/result_character12.png',
     results: [
       '호기심이 많고 지적인 도전을 즐기며,<br> 아이디어를 혁신하는 데 능숙해요.',
     ],
@@ -232,7 +232,7 @@ export const results = [
   },
   {
     title: 'ESTJ<br> 체계적인 소프트웨어<br> 프로젝트 관리 강사',
-    character: '/images/result_character13.png',
+    character: 'images/result_character13.png',
     results: [
       '조직적이고 체계적인 접근을 선호하며,<br> 리더십이 뛰어나.',
     ],
@@ -243,7 +243,7 @@ export const results = [
   },
   {
     title: 'ESFJ<br> 협력적인<br> 협업 도구 활용 강사',
-    character: '/images/result_character14.png',
+    character: 'images/result_character14.png',
     results: [
       '타인에 대한 배려가 깊고,<br> 조화롭고 안정된 환경을 만들려고 해요.',
     ],
@@ -254,7 +254,7 @@ export const results = [
   },
   {
     title: 'ENFJ<br> 동기 부여하는<br> 코딩 교육 방법론 강사',
-    character: '/images/result_character15.png',
+    character: 'images/result_character15.png',
     results: [
       '다른 사람의 성장을 도우며,<br> 영감을 주는 능력이 뛰어나요.',
     ],
@@ -265,7 +265,7 @@ export const results = [
   },
   {
     title: 'ENTJ<br> 대담한 기술 리더십 강사',
-    character: '/images/result_character16.png',
+    character: 'images/result_character16.png',
     results: [
       '효율적이고 체계적인 계획을 세우는 데 능숙하며,<br> 큰 그림을 볼 줄 알아요.'
     ],
