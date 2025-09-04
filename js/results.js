@@ -26,5 +26,5 @@ jobEls.forEach(function(jobEl, index) {
 workEls.innerHTML = result.work
 lecture1El.href = result.lectureUrl
 lecture2El.href = 'https://tally.so/r/mepkae'
-lectureImg1El.src = '../images/community.png'
-lectureImg2El.src = '../images/newsletter.png'
+lectureImg1El.src = 'images/community.png'
+lectureImg2El.src = 'images/newsletter.png'
