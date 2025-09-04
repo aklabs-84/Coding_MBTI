@@ -73,7 +73,7 @@ function showResultPage(){
    
 
     console.log(mbti)
-    location.href = '/results.html?mbti=' + mbti //쿼리스트링
+    location.href = 'results.html?mbti=' + mbti //쿼리스트링
 }
 
 choice1El.addEventListener('click',function(){
